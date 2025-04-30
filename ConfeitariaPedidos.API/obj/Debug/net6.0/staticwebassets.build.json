@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "Hash": "6r/4T0MFCtbQH7lBdVsqFsY3tOJIwVm24ukbrLhSViY=",
+  "Source": "ConfeitariaPedidos.API",
+  "BasePath": "_content/ConfeitariaPedidos.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Git\\Repos\\Confeitaria.Pedidos.Api\\Solution1\\ConfeitariaPedidos.Application\\ConfeitariaPedidos.Application.csproj",
+      "Version": 2,
+      "Source": "ConfeitariaPedidos.Application",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    },
+    {
+      "Identity": "C:\\Git\\Repos\\Confeitaria.Pedidos.Api\\Solution1\\ConfeitariaPedidos.Domain\\ConfeitariaPedidos.Domain.csproj",
+      "Version": 2,
+      "Source": "ConfeitariaPedidos.Domain",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    },
+    {
+      "Identity": "C:\\Git\\Repos\\Confeitaria.Pedidos.Api\\Solution1\\ConfeitariaPedidos.Infrastructure\\ConfeitariaPedidos.Infrastructure.csproj",
+      "Version": 2,
+      "Source": "ConfeitariaPedidos.Infrastructure",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
