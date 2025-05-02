@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "7sfM3GVMsfkhMYW8Ty1o8ys4OgBM/xoFFbTD1EWwRsg=",
+  "Hash": "WD8izaFGtdG1Bf+dXz5xo4+j39rBbusmwSRBZ576HO0=",
   "Source": "ConfeitariaPedidos.Application",
   "BasePath": "_content/ConfeitariaPedidos.Application",
   "Mode": "Default",
@@ -11,10 +11,10 @@
       "Version": 2,
       "Source": "ConfeitariaPedidos.Domain",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
-      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishProperties": "",
       "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
       "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
-      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildProperties": "",
       "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
     }
   ],
