@@ -867,34 +867,24 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "ConfeitariaPedidos.Domain": "1.0.0",
-          "Swashbuckle.AspNetCore": "6.2.3"
+          "ConfeitariaPedidos.Domain": "1.0.0"
         },
         "compile": {
           "bin/placeholder/ConfeitariaPedidos.Application.dll": {}
         },
         "runtime": {
           "bin/placeholder/ConfeitariaPedidos.Application.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
+        }
       },
       "ConfeitariaPedidos.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Swashbuckle.AspNetCore": "6.2.3"
-        },
         "compile": {
           "bin/placeholder/ConfeitariaPedidos.Domain.dll": {}
         },
         "runtime": {
           "bin/placeholder/ConfeitariaPedidos.Domain.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
+        }
       },
       "ConfeitariaPedidos.Infrastructure/1.0.0": {
         "type": "project",
@@ -910,10 +900,7 @@
         },
         "runtime": {
           "bin/placeholder/ConfeitariaPedidos.Infrastructure.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
+        }
       }
     }
   },
@@ -2316,6 +2303,7 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "ConfeitariaPedidos.Application >= 1.0.0",
+      "ConfeitariaPedidos.Domain >= 1.0.0",
       "ConfeitariaPedidos.Infrastructure >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.36",
       "Swashbuckle.AspNetCore >= 6.2.3"
@@ -2350,6 +2338,9 @@
           "projectReferences": {
             "C:\\Git\\Repos\\Confeitaria.Pedidos.Api\\Solution1\\ConfeitariaPedidos.Application\\ConfeitariaPedidos.Application.csproj": {
               "projectPath": "C:\\Git\\Repos\\Confeitaria.Pedidos.Api\\Solution1\\ConfeitariaPedidos.Application\\ConfeitariaPedidos.Application.csproj"
+            },
+            "C:\\Git\\Repos\\Confeitaria.Pedidos.Api\\Solution1\\ConfeitariaPedidos.Domain\\ConfeitariaPedidos.Domain.csproj": {
+              "projectPath": "C:\\Git\\Repos\\Confeitaria.Pedidos.Api\\Solution1\\ConfeitariaPedidos.Domain\\ConfeitariaPedidos.Domain.csproj"
             },
             "C:\\Git\\Repos\\Confeitaria.Pedidos.Api\\Solution1\\ConfeitariaPedidos.Infrastructure\\ConfeitariaPedidos.Infrastructure.csproj": {
               "projectPath": "C:\\Git\\Repos\\Confeitaria.Pedidos.Api\\Solution1\\ConfeitariaPedidos.Infrastructure\\ConfeitariaPedidos.Infrastructure.csproj"

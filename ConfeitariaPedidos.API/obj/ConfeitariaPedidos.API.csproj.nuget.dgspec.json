@@ -31,6 +31,9 @@
               "C:\\Git\\Repos\\Confeitaria.Pedidos.Api\\Solution1\\ConfeitariaPedidos.Application\\ConfeitariaPedidos.Application.csproj": {
                 "projectPath": "C:\\Git\\Repos\\Confeitaria.Pedidos.Api\\Solution1\\ConfeitariaPedidos.Application\\ConfeitariaPedidos.Application.csproj"
               },
+              "C:\\Git\\Repos\\Confeitaria.Pedidos.Api\\Solution1\\ConfeitariaPedidos.Domain\\ConfeitariaPedidos.Domain.csproj": {
+                "projectPath": "C:\\Git\\Repos\\Confeitaria.Pedidos.Api\\Solution1\\ConfeitariaPedidos.Domain\\ConfeitariaPedidos.Domain.csproj"
+              },
               "C:\\Git\\Repos\\Confeitaria.Pedidos.Api\\Solution1\\ConfeitariaPedidos.Infrastructure\\ConfeitariaPedidos.Infrastructure.csproj": {
                 "projectPath": "C:\\Git\\Repos\\Confeitaria.Pedidos.Api\\Solution1\\ConfeitariaPedidos.Infrastructure\\ConfeitariaPedidos.Infrastructure.csproj"
               }
@@ -120,12 +123,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.2.3, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -138,9 +135,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
@@ -184,12 +178,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.2.3, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -202,9 +190,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
@@ -284,9 +269,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

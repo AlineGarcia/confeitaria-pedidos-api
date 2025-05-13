@@ -15,6 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
+	<ProjectReference Include="..\ConfeitariaPedidos.Domain\ConfeitariaPedidos.Domain.csproj" />
     <ProjectReference Include="..\ConfeitariaPedidos.Application\ConfeitariaPedidos.Application.csproj" />
     <ProjectReference Include="..\ConfeitariaPedidos.Infrastructure\ConfeitariaPedidos.Infrastructure.csproj" />
   </ItemGroup>

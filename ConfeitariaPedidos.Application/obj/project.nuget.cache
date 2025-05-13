@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aExlS++bt6X62DNZBUDG7lM1ly3JskRAaG/h6podOsUexBTMScYo+QT0Y5Ape0+bykJZ5ls7CBC6ok8EWsb3cQ==",
+  "dgSpecHash": "hrnvvrPVIpocyqYKErkTaXR/QM5Veb+1+3FYlmwMv+kueTm2vx27zDzuYZwR6oG/yAbnNcsvbHcpAFykdprQ6g==",
   "success": true,
   "projectFilePath": "C:\\Git\\Repos\\Confeitaria.Pedidos.Api\\Solution1\\ConfeitariaPedidos.Application\\ConfeitariaPedidos.Application.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\Dell\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
-    "C:\\Users\\Dell\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
-    "C:\\Users\\Dell\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "C:\\Users\\Dell\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

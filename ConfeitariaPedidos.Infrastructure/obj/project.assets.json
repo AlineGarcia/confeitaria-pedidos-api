@@ -854,18 +854,12 @@
       "ConfeitariaPedidos.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Swashbuckle.AspNetCore": "6.2.3"
-        },
         "compile": {
           "bin/placeholder/ConfeitariaPedidos.Domain.dll": {}
         },
         "runtime": {
           "bin/placeholder/ConfeitariaPedidos.Domain.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
+        }
       }
     }
   },
@@ -2313,9 +2307,6 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }

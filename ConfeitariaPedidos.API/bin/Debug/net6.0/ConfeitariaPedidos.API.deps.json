@@ -9,6 +9,7 @@
       "ConfeitariaPedidos.API/1.0.0": {
         "dependencies": {
           "ConfeitariaPedidos.Application": "1.0.0",
+          "ConfeitariaPedidos.Domain": "1.0.0",
           "ConfeitariaPedidos.Infrastructure": "1.0.0",
           "Microsoft.EntityFrameworkCore.Tools": "6.0.36",
           "Swashbuckle.AspNetCore": "6.2.3"
@@ -541,17 +542,13 @@
       },
       "ConfeitariaPedidos.Application/1.0.0": {
         "dependencies": {
-          "ConfeitariaPedidos.Domain": "1.0.0",
-          "Swashbuckle.AspNetCore": "6.2.3"
+          "ConfeitariaPedidos.Domain": "1.0.0"
         },
         "runtime": {
           "ConfeitariaPedidos.Application.dll": {}
         }
       },
       "ConfeitariaPedidos.Domain/1.0.0": {
-        "dependencies": {
-          "Swashbuckle.AspNetCore": "6.2.3"
-        },
         "runtime": {
           "ConfeitariaPedidos.Domain.dll": {}
         }
